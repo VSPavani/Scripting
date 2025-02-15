@@ -13,8 +13,5 @@ The report formulation includes the following steps:
 - The folder and other files (`add_tcl`, `create_tcl`, `run_tcl`) were cloned to VS Code.  
 - The `Tcl_scripting.py` file was executed in the terminal, automatically generating the final results.  
 
----
-
-📌 **Note:** Ensure that all required files are present before running the script to avoid errors.  
 
 
