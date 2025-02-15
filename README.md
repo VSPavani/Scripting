@@ -1,7 +1,6 @@
 # Lab 4 - Scripting and Automation  
 
-The designs of various Verilog modules are synthesized, implemented, and reports have been generated.  
-The reports include the **timing report, power report, and utilization report**.  
+The designs of various Verilog modules are synthesized, implemented, and reports have been generated. The reports include the **timing report, power report, and utilization report**.  
 
 The extracted values from these reports are stored in **Final_results.csv**.  
 
